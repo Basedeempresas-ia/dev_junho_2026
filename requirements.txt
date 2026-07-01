@@ -1,0 +1,12 @@
+pandas
+polars
+duckdb
+pyarrow
+fastparquet
+tqdm
+openpyxl
+unidecode
+jupyter
+ipykernel
+python-dateutil
+matplotlib
